@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: " All Servers With Me In Them", // required by Discord API, not shown in the client
-        state: " All Servers With Me In Them",     // this is what people actually see
-        type: 3,               // Custom
+        name: " Lobster's Ocean", // required by Discord API, not shown in the client
+        state: " Lobster's Ocean",     // this is what people actually see
+        type: 0,               // Custom
       },
     ],
   },
